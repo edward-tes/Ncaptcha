@@ -1,0 +1,38 @@
+{
+    "main": "./lib/ncaptcha.js",
+    "name": "ncaptcha",
+    "description": "",
+    "version": "v0.0.1",
+    "keywords": [
+        "ncaptcha",
+        "captcha",
+        "验证码",
+        "Node 验证码",
+        "Node captcha"
+    ],
+    "maintainers": [
+        {
+            "name": "edwardlu",
+            "email": "flyingedwardlu@gmail.com"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "edwardlu",
+            "email": "flyingedwardlu@gmail.com"
+        }
+    ],
+    "licenses": [],
+    "repository": [
+        {
+            "type": "git",
+            "url": "https://github.com/edwardlu8023/Ncaptcha.git"
+        }
+    ],
+    "dependencies": {
+        "canvas": ">= 0.9.0"
+    },
+    "engines": {
+        "node": ">= 0.4.1"
+    }
+}
